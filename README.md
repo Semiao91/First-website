@@ -1,1 +1,1 @@
-# Old CV with a statick HTML website frame.
+# Old CV with a static HTML website frame.
